@@ -1,1 +1,1 @@
-# PongJS
+# Pong.JS
